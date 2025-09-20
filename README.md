@@ -126,33 +126,6 @@ python app.py
 - If you don't have an account, click on "Create Account" to register.
 - After registration, you will be redirected to the login page.
 
-
-## Results: 🙌
-Project Demo Link :
-https://github.com/user-attachments/assets/7b42ce49-023c-4615-99ac-48062d5f1f2c
-
-Webapplication Screenshots: 
-- Login Yourself , if you don't have any account click on create account.
-  <img width="960" alt="Screenshot (3176)" src="https://github.com/user-attachments/assets/59f599bc-6a96-4f3a-927b-15392478ef2f">
-- Register yourself
-  <img width="960" alt="Screenshot (3177)" src="https://github.com/user-attachments/assets/03027dd2-6fe9-4b51-b714-250e50eadfb3">
-- Now login yourself
-  <img width="960" alt="Screenshot (3178)" src="https://github.com/user-attachments/assets/3137fb79-fac8-46b4-9643-2c719520f648">
-- Now you're Welcome to the Grocery Shop home page.
-- Click on Shop to see the available products.
-  <img width="960" alt="Screenshot (3179)" src="https://github.com/user-attachments/assets/03c17d38-9052-408f-9be8-74d0d9b61d6c">
-- By filling the quantity, you can add items into your cart.
-- to view the cart items , click on orders.
-  <img width="960" alt="Screenshot (3180)" src="https://github.com/user-attachments/assets/cfe5eab5-f76a-4791-ae0f-3b175bfda4ec">
-- Here you can remove any item if you want and can place the order by clicking on place order button.
-  <img width="960" alt="Screenshot (3182)" src="https://github.com/user-attachments/assets/0bf5c8aa-0a6e-44d9-8bfa-bfad5ca86124">
-- Now you will be receive an invoice of your order.
-- By clicking on logout , you can successfully logout yourself from this web application
-  <img width="960" alt="Screenshot (3185)" src="https://github.com/user-attachments/assets/4b3666d6-cc67-4110-a94f-ce6069d9ab21">
-  <img width="960" alt="Screenshot (3184)" src="https://github.com/user-attachments/assets/1b6f1d06-b245-4008-98ce-e47c68a34dd5">
-
-
-
 <div class="text-center">
-  <h1>**😍THANK YOU !😍**</h1>
+  <h1>😍THANK YOU !😍</h1>
 </div>
